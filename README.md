@@ -4,6 +4,7 @@
 
 * react
 * react-router-dom
+* styled-components
 * redux
 * apollo-boost
 
